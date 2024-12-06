@@ -2,7 +2,6 @@ package dao;
 
 import database.DbConnection;
 import database.SchemaDB;
-import model.Coche;
 import model.Pasajero;
 
 import java.sql.Connection;
